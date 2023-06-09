@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1686297224 source:c:\users\Μπάμπης\desktop\mpampis programs\c++ programs\project_data_structures\main.cpp
+	<iostream>
+	"Element.h"
+	<string>
+	"UnsortedArray.h"
+
+1686296513 source:c:\users\Μπάμπης\desktop\mpampis programs\c++ programs\project_data_structures\element.cpp
+	"Element.h"
+
+1686296848 c:\users\Μπάμπης\desktop\mpampis programs\c++ programs\project_data_structures\element.h
+	<iostream>
+	<string>
+
+1686301372 source:c:\users\Μπάμπης\desktop\mpampis programs\c++ programs\project_data_structures\unsortedarray.cpp
+	"UnsortedArray.h"
+
+1686301244 c:\users\Μπάμπης\desktop\mpampis programs\c++ programs\project_data_structures\unsortedarray.h
+	"Element.h"
+
